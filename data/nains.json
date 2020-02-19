@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Grincheux",
+        "rate": 18,
+        "age": 49
+    },
+    {
+        "name": "Prof",
+        "rate": 41,
+        "age": 47
+    },
+    {
+        "name": "Timide",
+        "rate": 19,
+        "age": 41
+    },
+    {
+        "name": "Joyeux",
+        "rate": 30,
+        "age": 44
+    },
+    {
+        "name": "Atchoum",
+        "rate": 10,
+        "age": 38
+    },
+    {
+        "name": "Simplet",
+        "rate": 4,
+        "age": 29
+    },
+    {
+        "name": "Dormeur",
+        "rate": 2,
+        "age": 47
+    }
+]

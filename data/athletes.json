@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Usain Bolt",
+        "nationality": "Jamaican",
+        "100m": 9.58,
+        "200m": 19.19,
+        "4x100m": 36.84
+    },
+    {
+        "name": "Justin Gatlin",
+        "nationality": "American",
+        "100m": 9.79,
+        "200m": 20.03,
+        "4x100m": 38.03
+    },
+    {
+        "name": "André de Grasse",
+        "nationality": "Canadian",
+        "100m": 9.91,
+        "200m": 20.02,
+        "4x100m": 37.64
+    },
+    {
+        "name": "Christophe Lemaître",
+        "nationality": "French",
+        "100m": 9.98,
+        "200m": 20.12,
+        "4x100m": 38.16
+    }
+]
